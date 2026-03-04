@@ -1,0 +1,22 @@
+﻿# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Env / secrets
+.env
+.env.*
+# Model artifacts
+*.pth
+*.pt
+*.onnx
+
+# Runtime outputs
+outputs/
