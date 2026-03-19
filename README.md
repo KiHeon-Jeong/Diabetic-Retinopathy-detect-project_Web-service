@@ -1,7 +1,7 @@
 ﻿# DR Web-service Module (Frontend/Backend Integration)
 
 ## 1) 개요
-본 구현 코드는 프로젝트 DR 서비스 파트입니다.  
+본 구현 코드는 프로젝트 DR 웹 서비스 구현 파트입니다.  
 학습된 DR 모델을 기반으로 Streamlit 추론 앱을 구성하고, 사용자 입력 이미지에 대한 예측 결과를 제공하는 흐름으로 구성되어 있습니다.
 
 ## 2) 파일 구성
